@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1702829107033,
+      "title": "VGN-SmartCall",
+      "description": "(CRM ) Customer relationship management software",
+      "status": "completed"
+    },
+    {
+      "id": 1702829207033,
+      "title": "BTF-RMS",
+      "description": "(BTF-RMS) Retail management system which includes inventory and billing softwares",
+      "status": "completed"
+    },
+    {
+      "id": 170282337033,
+      "title": "School Chimes",
+      "description": "(ERP & LMS) Learning management system",
+      "status": "completed"
+    },
+    {
+      "id": 1702829106250,
+      "title": "ChatBot",
+      "description": "AI Chat bot which accept user document and provide a AI generated output",
+      "status": "inProgress"
+    }
+  ]
+}

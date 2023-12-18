@@ -1,7 +1,6 @@
 import axios from "axios";
 
-// const BASE_URL = "http://localhost:8000";
-const BASE_URL = "/api";
+const BASE_URL = "http://localhost:8000";
 
 export const getProjectData = async () => {
   try {
